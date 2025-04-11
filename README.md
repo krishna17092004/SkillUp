@@ -1,7 +1,10 @@
-# 🌟 SkillUp
-### Learn2Earn - AI Mentor 🚀
+<p align="center">
+  <img src="https://github.com/krishna17092004/SkillUp/blob/main/assets/SkillUp%20Logo.png" alt="SkillUp Logo" height="200" style="vertical-align:middle; margin-right: 10px;"/><br>
+  <span style="font-size:180px; vertical-align:middle;"><strong>SkillUp – Learn2Earn: AI Mentor 🚀</strong></span>
+</p>
 
-## 📌 Overview
+
+## 📌 Project Overview
 
 SkillUp is an AI-powered personalized learning mentor designed for students who are uncertain about their career path. It analyzes a user’s current skillset and career goals, then generates a custom, step-by-step roadmap integrated with curated learning resources and progress tracking.
 
