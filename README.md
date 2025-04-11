@@ -100,10 +100,10 @@ Week | Topic | Resources | Goal
 🧪 Getting Started (for Devs)
 
 Clone the repo:
-
+```
 git clone https://github.com/yourusername/SkillUp.git
 cd SkillUp
-
+```
 Frontend:
 
 cd frontend
