@@ -1,14 +1,15 @@
-<h1>🌟 SkillUp : Learn2Earn - AI Mentor 🚀</h1>
+# 🌟 SkillUp
+### Learn2Earn - AI Mentor 🚀
 
-📌 Overview
+## 📌 Overview
 
 SkillUp is an AI-powered personalized learning mentor designed for students who are uncertain about their career path. It analyzes a user’s current skillset and career goals, then generates a custom, step-by-step roadmap integrated with curated learning resources and progress tracking.
 
-🧠 Meet Riya — Our Inspiration
+## 🧠 Meet Riya — Our Inspiration
 
 > Riya is a 2nd-year CS student. She wants to become a Data Analyst but doesn’t know what to learn, where to start, or how to track progress. She’s looking for a career GPS — and SkillUp is the answer. ✨
 
-🎯 Objectives
+## 🎯 Objectives
 
 - 🔍 Assess students’ current skills via resume, quiz, or GitHub profile
 - 🎯 Help them choose a target career role
@@ -17,15 +18,16 @@ SkillUp is an AI-powered personalized learning mentor designed for students who 
 - 📊 Track progress and suggest actions based on achievements
 - 🧑‍🤝‍🧑 (Optional) Offer peer comparison, mentor suggestions & certifications
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend       | Backend         | AI & NLP           | APIs & Tools
 -------------- | --------------- | ------------------ | ----------------------------
 React + Tailwind CSS | FastAPI / Flask | spaCy, HuggingFace, Scikit-learn | OpenAI / Gemini API, YouTube Data API, Firebase
 MongoDB / Firebase | JWT Auth | PyMuPDF (resume parsing), GitHub API | Chart.js, Recharts, RapidAPI
 
-📐 System Architecture
+## 📐 System Architecture
 
+![Architecture Diagram](https://github.com/krishna17092004/SkillUp/blob/main/assets/WhatsApp%20Image%202025-04-11%20at%2018.48.58_b393b56b.jpg)
 <details>
 <summary>🧩 Click to view Architecture Diagram</summary>
 
@@ -40,22 +42,22 @@ MongoDB / Firebase | JWT Auth | PyMuPDF (resume parsing), GitHub API | Chart.js,
 
 </details>
 
-🧩 Features Breakdown
+## 🧩 Features Breakdown
 
-📘 Skill Assessment
+### 📘 Skill Assessment
 
 - Resume PDF parsing using NLP (PyMuPDF + spaCy)
 - GitHub + Kaggle scraping to detect tech stack
 - Self-assessment form for students with little portfolio
 - Auto-generate a skill vector across areas like Python, SQL, Statistics, etc.
 
-🎓 Career Goal Selector
+### 🎓 Career Goal Selector
 
 - Dropdown of predefined roles (Data Analyst, ML Engineer, Web Dev)
 - OR quiz-based recommender for freshers
 - Maps to NSDC / ONET standardized career paths
 
-🧭 Roadmap Generator (AI Mentor)
+### 🧭 Roadmap Generator (AI Mentor)
 
 - Compares current skills vs. role’s required skills
 - Generates learning path with:
@@ -63,27 +65,27 @@ MongoDB / Firebase | JWT Auth | PyMuPDF (resume parsing), GitHub API | Chart.js,
   - Resource links
   - Expected outcomes
 
-🔗 Resource Integration
+### 🔗 Resource Integration
 
 - YouTube tutorials via Data API
 - Coursera/edX courses via search APIs
 - Free PDFs, GitHub Repos, Kaggle Notebooks
 - Community-curated resource DB (CSV/NoSQL)
 
-📈 Progress Tracker
+### 📈 Progress Tracker
 
 - Weekly check-in dashboard
 - Visualize roadmap timeline (Gantt or horizontal timeline)
 - Smart nudges for delayed progress
 - Gamified streaks & rewards (optional)
 
-🎁 Bonuses
+### 🎁 Bonuses
 
 - Peer Progress Comparison 📊
 - Mentor Matching via LinkedIn or Alumni DB 🤝
 - Certification Suggestions (e.g., Google Data Analyst Cert) 🎓
 
-📷 Sample Output: For Riya
+## 📷 Sample Output: For Riya
 
 💬 “Hi Riya! Based on your current skillset and your interest in Data Analytics, here’s your personalized 10-week learning roadmap 📚👇”
 
@@ -95,46 +97,46 @@ Week | Topic | Resources | Goal
 6 | EDA Practice | Kaggle – Titanic Dataset | Hands-on Project
 … | … | … | …
 
-🧪 Getting Started (for Devs)
+## 🧪 Getting Started (for Devs)
 
 Clone the repo:
-```
+```bash
 git clone https://github.com/yourusername/SkillUp.git
 cd SkillUp
 ```
 Frontend:
-```
+```bash
 cd frontend
 npm install
 npm start
 ```
 Backend:
-```
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 Set API keys in ```.env``` file (YouTube, OpenAI/Gemini, Firebase)
 
-🧠 Powered By
+## 🧠 Powered By
 
 - OpenAI GPT-4 & Gemini Pro
 - Google Firebase
 - GitHub & Kaggle APIs
 - ONET Career DB & NSDC
 
-👨‍💻 Team SkillUp
+## 👨‍💻 Team SkillUp
 
 - Krishna Teja K — AI & Architecture 🧠
 - Vasundhara G — Frontend & User Experience 🎨
 - Bhoomika D Janardhan — Backend & APIs ⚙️
 - Prerana V U — NLP & Resource Curation 🧾
 
-🪄 Want to contribute?
+## 🪄 Want to Contribute?
 
-Check out the ```CONTRIBUTING.md``` file and open a pull request! We welcome feedback, ideas & collabs 💡
+Fork it 🍴 → Star it ⭐ → Clone it 📥 → Build it 💡  
+Read CONTRIBUTING.md for details.
 
-```📄 License```
-MIT License
-
+## 📄 License
+MIT License © 2025 Team SkillUp<br>
 Feel free to use, share, and remix with credits 🙌
