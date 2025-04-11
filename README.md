@@ -14,12 +14,12 @@ SkillUp is an AI-powered personalized learning mentor designed for students who 
 
 ## 🎯 Objectives
 
-- 🔍 Assess students’ current skills via resume, quiz, or GitHub profile
-- 🎯 Help them choose a target career role
-- 🧭 Generate a weekly, personalized learning roadmap
-- 🎥 Integrate resources from YouTube, Coursera, edX, etc.
-- 📊 Track progress and suggest actions based on achievements
-- 🧑‍🤝‍🧑 (Optional) Offer peer comparison, mentor suggestions & certifications
+  🔍 Assess students’ current skills via resume, quiz, or GitHub profile<br>
+  🎯 Help them choose a target career role<br>
+  🧭 Generate a weekly, personalized learning roadmap<br>
+  🎥 Integrate resources from YouTube, Coursera, edX, etc.<br>
+  📊 Track progress and suggest actions based on achievements<br>
+  🧑‍🤝‍🧑 (Optional) Offer peer comparison, mentor suggestions & certifications<br>
 
 ## 🛠️ Tech Stack
 
