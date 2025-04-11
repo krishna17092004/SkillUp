@@ -1,4 +1,4 @@
-<h1>🌟 SkillUp</h1><h3>Learn2Earn: AI Mentor 🚀</h3>
+<h1>🌟 SkillUp : Learn2Earn: AI Mentor 🚀</h1>
 
 📌 Overview
 
