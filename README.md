@@ -126,7 +126,9 @@ Set API keys in ```.env``` file (YouTube, OpenAI/Gemini, Firebase)
 👨‍💻 Team SkillUp
 
 - Krishna Teja K — AI & Architecture 🧠
-- [Add team members here]
+- Vasundhara G — Frontend & User Experience 🎨
+- Bhoomika D Janardhan — Backend & APIs ⚙️
+- Prerana V U — NLP & Resource Curation 🧾
 
 🪄 Want to contribute?
 
@@ -134,10 +136,4 @@ Check out the ```CONTRIBUTING.md``` file and open a pull request! We welcome fee
 
 📄 License
 
-MIT License. Feel free to use, share, and remix with credits 🙌
-
-Team Members : 
-1. KRISHNA TEJA K
-2. VASUNDHARA G
-3. BHOOMIKA D JANARDHAN
-4. PRERANA V U
+```MIT License``` Feel free to use, share, and remix with credits 🙌
