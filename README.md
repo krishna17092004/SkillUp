@@ -1,4 +1,4 @@
-🌟 SkillUp – Learn2Earn: AI Mentor 🚀  
+#🌟 SkillUp – Learn2Earn: AI Mentor 🚀  
 
 📌 Overview
 
@@ -134,6 +134,7 @@ Set API keys in ```.env``` file (YouTube, OpenAI/Gemini, Firebase)
 
 Check out the ```CONTRIBUTING.md``` file and open a pull request! We welcome feedback, ideas & collabs 💡
 
-📄 License
+```📄 License```
 
-```MIT License``` Feel free to use, share, and remix with credits 🙌
+```MIT License``` 
+Feel free to use, share, and remix with credits 🙌
