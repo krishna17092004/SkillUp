@@ -26,8 +26,6 @@ MongoDB / Firebase | JWT Auth | PyMuPDF (resume parsing), GitHub API | Chart.js,
 
 📐 System Architecture
 
-Click to expand
-
 <details>
 <summary>🧩 Click to view Architecture Diagram</summary>
 
@@ -105,18 +103,18 @@ git clone https://github.com/yourusername/SkillUp.git
 cd SkillUp
 ```
 Frontend:
-
+```
 cd frontend
 npm install
 npm start
-
+```
 Backend:
-
+```
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-
-Set API keys in .env file (YouTube, OpenAI/Gemini, Firebase)
+```
+Set API keys in ```.env``` file (YouTube, OpenAI/Gemini, Firebase)
 
 🧠 Powered By
 
@@ -132,7 +130,7 @@ Set API keys in .env file (YouTube, OpenAI/Gemini, Firebase)
 
 🪄 Want to contribute?
 
-Check out the CONTRIBUTING.md file and open a pull request! We welcome feedback, ideas & collabs 💡
+Check out the ```CONTRIBUTING.md``` file and open a pull request! We welcome feedback, ideas & collabs 💡
 
 📄 License
 
