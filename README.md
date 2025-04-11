@@ -1,2 +1,8 @@
 # SkillUp
 Learn2Earn - AI Mentor
+
+Team Members : 
+1. KRISHNA TEJA K
+2. VASUNDHARA G
+3. BHOOMIKA D JANARDHAN
+4. PRERANA V U
